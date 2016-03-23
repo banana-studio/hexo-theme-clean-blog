@@ -4,7 +4,7 @@ menu:
   Archives: /archives
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: Banana 团队博客
 
 # URL of the Home page image
 index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
@@ -28,4 +28,4 @@ google_analytics:
 # Social Accounts
 twitter_url:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/banana-studio/hexo-theme-clean-blog
